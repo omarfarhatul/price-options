@@ -6,6 +6,7 @@ function App() {
   return (
     <>
       <h1 className='test-7xl bg-rose-600 underline'>Vite+Reacts</h1>
+      <h2>Data</h2>
     </>
   )
 }
